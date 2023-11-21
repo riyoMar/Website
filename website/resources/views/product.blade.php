@@ -56,7 +56,11 @@
                 <rect x="0.5" y="0.5" width="499" height="499" stroke="black"/>
             </svg>
                     <div class="img">
+                    
                         <img src="images/productImage.jpg">
+                        
+                        <img src="images/productimage.jpg">
+                        
                     </div>
                 <div class="button">
                     <a href="view-details">
@@ -71,7 +75,11 @@
                 <rect x="0.5" y="0.5" width="499" height="499" stroke="black"/>
             </svg>
                     <div class="img">
+                    
                       <img src="images/productImage.jpg">
+                      
+                      <img src="images/productimage.jpg">
+                      
                     </div>
                 <div class="button">
                     <a href="view-details">
