@@ -23,8 +23,6 @@
                     
                         <a class="nav-link active" aria-current="page" href="support">Support</a>
                         
-                        <a class="nav-link active" aria-current="page" href="about-us">About Us</a>
-                        
                     </li>
                 </ul>
             </div>
