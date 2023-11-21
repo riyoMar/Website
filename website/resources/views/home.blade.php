@@ -22,7 +22,11 @@
 
 
                     <svg class="bd-placeholder-img" width="100%" height="100%" xlink:href="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
+
+                        <image xlink:href="{{url('images/backgroundHeader.jpg')}}" width="100%" height="142%" />
+                        
                         <image src="images/backgroundHeader.jpg" width="100%" height="142%" />
+                        
                         {{-- <rect width="100%" height="100%" fill="#777"></rect> --}}
                     </svg>
 

@@ -20,7 +20,11 @@
                         <a class="nav-link active" aria-current="page" href="home">Home</a>
                     </li>
                     <li class="navbar-nav me-auto mb-2 mb-md-0">
+                    
+                        <a class="nav-link active" aria-current="page" href="support">Support</a>
+                        
                         <a class="nav-link active" aria-current="page" href="about-us">About Us</a>
+                        
                     </li>
                 </ul>
             </div>

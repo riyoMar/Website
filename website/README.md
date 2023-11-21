@@ -7,10 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
 ## Folder/File Penting:
 - public/images
 - public/icons
 - resources/views
+
 
 ## About Laravel
 
